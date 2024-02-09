@@ -140,6 +140,7 @@ display: inline-block;
     border: 1px solid #054A68;
     background-color: #054A68;
     padding: 15px 14px 16px 14px;
+    box-sizing: border-box;
 }
 
 footer{
