@@ -157,3 +157,6 @@ padding: 108px 77px 181px 57px;
 background-color: #53535354;
 
 }
+@media (max-width 767px){
+    p{color: blue;}
+}
